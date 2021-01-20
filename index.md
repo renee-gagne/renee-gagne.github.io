@@ -1,11 +1,11 @@
-## Portfolio
+## Academic Portfolio
 
 ---
 
-### Category Name 1 
+### Honors Thesis
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Rutal to Urban Migration](/pdf/Renee_Gagne_Honors_Thesis.pdf)
+<img src="/images/Shanghai.jpeg">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
