@@ -1,13 +1,12 @@
 ## Academic Portfolio
 
 ---
-
-### Honors Thesis
-
-[Rutal to Urban Migration](/pdf/Renee_Gagne_Honors_Thesis.pdf)
+### Undergraduate Honors Thesis
+[Rutal to Urban Migration: An Investigation of the Connection Between Housing and Educational Attainment in Shanghai](/pdf/Renee_Gagne_Honors_Thesis.pdf)
 <img src="/images/Shanghai.jpeg">
 
 ---
+### Team SQL Project
 [French C2C E-Commerce User Engagement Analytics Team Project in MySQL](/pdf/Team 20 Team Project.pdf)
 <img src="images/C2cBubbleGraph.png"/>
 
