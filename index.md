@@ -8,8 +8,8 @@
 <img src="/images/Shanghai.jpeg">
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[French C2C E-Commerce User Engagement Analytics Team Project in MySQL](/pdf/Team 20 Team Project.pdf)
+<img src="images/C2cBubbleGraph.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
