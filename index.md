@@ -2,7 +2,7 @@
 
 ---
 ### Resume
-[Resume] (/pdf/Renee Gagne Analytics Resume.pdf)
+[Resume](/pdf/Renee Gagne Analytics Resume.pdf)
 
 ### Undergraduate Honors Thesis
 [Rutal to Urban Migration: An Investigation of the Connection Between Housing and Educational Attainment in Shanghai](/pdf/Renee_Gagne_Honors_Thesis.pdf)
