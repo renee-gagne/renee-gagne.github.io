@@ -2,7 +2,6 @@
 
 ---
 [Resume](/pdf/Renee Gagne Analytics Resume.pdf)
-
 ---
 ### Interdisciplinary Ethics Tech Competition 2021 - 1st Place
 <img src="/images/EthicsCover.png"/>
