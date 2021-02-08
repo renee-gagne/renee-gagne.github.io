@@ -1,7 +1,6 @@
 ## Academic Portfolio
 
 ---
-### Resume
 [Resume](/pdf/Renee Gagne Analytics Resume.pdf)
 
 ---
