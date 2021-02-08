@@ -6,10 +6,9 @@
 
 ---
 ### Interdisciplinary Ethics Tech Competition 2021 - 1st Place
-[Project Presentation Video](/https://vimeo.com/508527899/)
 <img src="/images/EthicsCover.png"/>
 ##### I had the opportunity to collaborate with a team of graduate students to propose solutions to a real-world business problem. Our solution considered ethical, technological, legal, financial, and privacy-related domains to determine the optimal business solution. My primary contribution was that of researching the financial impacts of various business options. 
-
+[Project Presentation Video](/https://vimeo.com/508527899/)
 
 ---
 
